@@ -7,6 +7,10 @@ This Project is a part of the Internship of QUPS.
 -   Install all necessary dependencies from pom.xml file
 -   Run TestSearch.java file (src/test/java/tests/TestSearch.java)
 
+# Change Browser
+-   If you want to change browser just give the browser name in settings.json 
+-   This project will run in Incognito Mode. If you want to change Update start arguments from settings.json file
+
 ## Technologies
 Project is created with:
 -	Java 17
